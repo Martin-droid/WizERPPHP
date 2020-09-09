@@ -1,0 +1,16 @@
+Package: classic
+Version: 2.4.1-1
+Type: theme
+Name: Theme Classic
+Description: Optional Theme. Traditional.
+ Works execent in all browsers.
+ Fine in IOS. (one touch -> hover), (two touch -> click).
+ Ok in Android Tablets, smartphones.. (The click event has been converted to a Dashboard menu).
+ This theme was first thought to be a replacement for the Default theme, but many testers wanted to
+ keep the Default theme. So will just wait and see.
+Author: Joe Hunt <joe.hunt.consulting@gmail.com>
+Homepage: www.frontaccounting.com
+Maintenance: Joe Hunt <joe.hunt.consulting@gmail.com>
+InstallPath: themes/classic
+Filename: classic-2.4.1-1
+

@@ -74,39 +74,362 @@
 [09-Sep-2020 08:37:53 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
 [09-Sep-2020 08:38:08 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
 [09-Sep-2020 08:38:18 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
-[09-Sep-2020 10:14:07 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
-[09-Sep-2020 10:14:07 Europe/Berlin] 0:admin:header.inc:157: include_once(../themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
-[09-Sep-2020 10:14:07 Europe/Berlin] 0:admin:header.inc:157: include_once(): Failed opening '../themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
-[09-Sep-2020 10:14:07 Europe/Berlin] 0:admin:header.inc:158: Unhandled exception [0]: Class 'renderer' not found.
-[09-Sep-2020 10:14:07 Europe/Berlin] 0:admin:footer.inc:19: include_once(../themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
-[09-Sep-2020 10:14:07 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening '../themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
-[09-Sep-2020 10:14:10 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
-[09-Sep-2020 10:14:10 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
-[09-Sep-2020 10:14:10 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
-[09-Sep-2020 10:14:10 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
-[09-Sep-2020 10:14:10 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
-[09-Sep-2020 10:14:10 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
-[09-Sep-2020 10:14:12 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
-[09-Sep-2020 10:14:12 Europe/Berlin] 0:admin:header.inc:157: include_once(../themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
-[09-Sep-2020 10:14:12 Europe/Berlin] 0:admin:header.inc:157: include_once(): Failed opening '../themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
-[09-Sep-2020 10:14:12 Europe/Berlin] 0:admin:header.inc:158: Unhandled exception [0]: Class 'renderer' not found.
-[09-Sep-2020 10:14:12 Europe/Berlin] 0:admin:footer.inc:19: include_once(../themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
-[09-Sep-2020 10:14:12 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening '../themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
-[09-Sep-2020 10:14:16 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
-[09-Sep-2020 10:14:16 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
-[09-Sep-2020 10:14:16 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
-[09-Sep-2020 10:14:16 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
-[09-Sep-2020 10:14:16 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
-[09-Sep-2020 10:14:16 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
-[09-Sep-2020 10:14:26 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
-[09-Sep-2020 10:14:26 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
-[09-Sep-2020 10:14:26 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
-[09-Sep-2020 10:14:26 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
-[09-Sep-2020 10:14:26 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
-[09-Sep-2020 10:14:26 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
-[09-Sep-2020 10:14:32 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
-[09-Sep-2020 10:14:32 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
-[09-Sep-2020 10:14:32 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
-[09-Sep-2020 10:14:32 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
-[09-Sep-2020 10:14:32 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
-[09-Sep-2020 10:14:32 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
+[09-Sep-2020 08:47:11 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:47:12 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:47:22 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:47:25 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:47:28 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:47:30 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:47:32 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:47:37 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:47:44 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:47:48 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:47:52 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:47:55 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:47:59 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:02 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:05 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:09 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:12 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:15 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:17 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:20 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:26 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:30 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:40 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:44 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:47 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:51 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:55 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:48:59 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:03 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:15 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:16 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:24 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:24 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:24 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:24 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:35 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:35 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:35 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:35 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:43 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:43 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:43 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:43 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:47 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:47 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:47 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:47 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:48 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:51 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:52 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:52 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:52 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:55 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:55 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:55 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:55 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:59 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:59 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:59 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:49:59 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:02 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:02 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:02 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:02 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:06 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:06 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:06 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:06 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:07 Europe/Berlin] 0:admin:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[09-Sep-2020 08:50:07 Europe/Berlin] 0:admin:xpMenu.class.php:211: The each() function is deprecated. This message will be suppressed on further calls
+[09-Sep-2020 08:50:07 Europe/Berlin] 0:admin:xpMenu.class.php:218: Variable passed to each() is not an array or object
+[09-Sep-2020 08:50:10 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:10 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:10 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:10 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:10 Europe/Berlin] 0:admin:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[09-Sep-2020 08:50:10 Europe/Berlin] 0:admin:xpMenu.class.php:211: The each() function is deprecated. This message will be suppressed on further calls
+[09-Sep-2020 08:50:10 Europe/Berlin] 0:admin:xpMenu.class.php:218: Variable passed to each() is not an array or object
+[09-Sep-2020 08:50:15 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:15 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:15 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:15 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:22 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:22 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:22 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:22 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:22 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:25 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:25 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:25 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:25 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:26 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:29 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:29 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:29 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:29 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:36 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:36 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:36 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:36 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:40 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:40 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:40 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:40 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:44 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:44 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:44 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:44 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:49 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:49 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:49 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:49 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:55 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:55 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:55 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:50:55 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:01 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:01 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:01 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:01 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:27 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:27 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:27 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:27 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:33 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:33 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:33 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:38 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:38 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:38 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:38 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:42 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:46 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:51:46 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:52:39 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:52:48 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:13 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:27 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:31 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:31 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:31 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:31 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:39 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:39 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:39 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:39 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:42 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:42 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:42 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:42 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:47 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:47 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:47 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:47 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:52 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:52 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:52 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:52 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:52 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:55 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:55 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:55 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:54:56 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:06 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:06 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:06 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:06 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:11 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:11 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:15 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:15 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:15 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:15 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:15 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:19 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:19 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:19 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:19 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:23 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:23 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:23 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:23 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:32 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:32 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:32 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:32 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:34 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:35 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:42 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:42 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:45 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:45 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:45 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:45 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:47 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:49 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:51 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:53 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:57 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:57 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:57 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:57 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:57 Europe/Berlin] 0:admin:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[09-Sep-2020 08:55:57 Europe/Berlin] 0:admin:xpMenu.class.php:211: The each() function is deprecated. This message will be suppressed on further calls
+[09-Sep-2020 08:55:57 Europe/Berlin] 0:admin:xpMenu.class.php:218: Variable passed to each() is not an array or object
+[09-Sep-2020 08:55:58 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:55:58 Europe/Berlin] 0:admin:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[09-Sep-2020 08:55:58 Europe/Berlin] 0:admin:xpMenu.class.php:211: The each() function is deprecated. This message will be suppressed on further calls
+[09-Sep-2020 08:55:58 Europe/Berlin] 0:admin:xpMenu.class.php:218: Variable passed to each() is not an array or object
+[09-Sep-2020 08:56:00 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:00 Europe/Berlin] 0:admin:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[09-Sep-2020 08:56:00 Europe/Berlin] 0:admin:xpMenu.class.php:211: The each() function is deprecated. This message will be suppressed on further calls
+[09-Sep-2020 08:56:00 Europe/Berlin] 0:admin:xpMenu.class.php:218: Variable passed to each() is not an array or object
+[09-Sep-2020 08:56:01 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:01 Europe/Berlin] 0:admin:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[09-Sep-2020 08:56:01 Europe/Berlin] 0:admin:xpMenu.class.php:211: The each() function is deprecated. This message will be suppressed on further calls
+[09-Sep-2020 08:56:01 Europe/Berlin] 0:admin:xpMenu.class.php:218: Variable passed to each() is not an array or object
+[09-Sep-2020 08:56:13 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:13 Europe/Berlin] 0:admin:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[09-Sep-2020 08:56:13 Europe/Berlin] 0:admin:xpMenu.class.php:211: The each() function is deprecated. This message will be suppressed on further calls
+[09-Sep-2020 08:56:13 Europe/Berlin] 0:admin:xpMenu.class.php:218: Variable passed to each() is not an array or object
+[09-Sep-2020 08:56:33 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:33 Europe/Berlin] 0:admin:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[09-Sep-2020 08:56:33 Europe/Berlin] 0:admin:xpMenu.class.php:211: The each() function is deprecated. This message will be suppressed on further calls
+[09-Sep-2020 08:56:33 Europe/Berlin] 0:admin:xpMenu.class.php:218: Variable passed to each() is not an array or object
+[09-Sep-2020 08:56:35 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:35 Europe/Berlin] 0:admin:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[09-Sep-2020 08:56:35 Europe/Berlin] 0:admin:xpMenu.class.php:211: The each() function is deprecated. This message will be suppressed on further calls
+[09-Sep-2020 08:56:35 Europe/Berlin] 0:admin:xpMenu.class.php:218: Variable passed to each() is not an array or object
+[09-Sep-2020 08:56:39 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:39 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:39 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:39 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:42 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:44 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:45 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:45 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:56:54 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:08 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:10 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:13 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:15 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:17 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:17 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:17 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:18 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:21 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:21 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:21 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:25 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:29 Europe/Berlin] 4 Domain file "../../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:57:35 Europe/Berlin] 4 Domain file "../../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:58:56 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:59:00 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:59:00 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:59:00 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:59:00 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:59:06 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:59:08 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:59:10 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 08:59:25 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:00:02 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:00:14 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:00:31 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:00:42 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:00:44 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:08:17 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:10:24 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:10:29 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:10:29 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:10:29 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:10:29 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:11:51 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:14:25 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:14:41 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:15:15 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:15:58 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:16:02 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:16:04 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:16:05 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:16:08 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:16:10 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:16:14 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:16:17 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:16:21 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:16:22 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:16:27 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:16:27 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:16:28 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:17:46 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:18:15 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:37:36 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:37:44 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:37:44 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:37:44 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:37:44 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:38:40 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:38:58 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:39:14 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:40:06 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:40:20 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:40:32 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:40:59 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:41:31 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:43:33 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:43:44 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:44:30 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:44:47 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:44:58 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:45:40 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:51:12 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:51:35 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:52:28 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:52:49 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:52:59 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:53:00 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:53:12 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:53:21 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:53:33 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 09:55:24 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:03:56 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:06:59 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:07:12 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:07:58 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:08:03 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:08:23 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:08:33 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:08:38 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:08:38 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:08:38 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:08:38 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:08:38 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:08:47 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:08:48 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:08:52 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:08:53 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:09:25 Europe/Berlin] 4 Domain file "../../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:09:33 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:04 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:05 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:06 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:07 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:29 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:29 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:32 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:32 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:36 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:36 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:38 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:39 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:42 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:42 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:46 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:46 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:46 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:12:46 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:15:37 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:16:10 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:16:18 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.

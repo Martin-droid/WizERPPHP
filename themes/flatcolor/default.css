@@ -1,0 +1,696 @@
+/*--------------------------------------------------\
+| flatcolor		  |				  | default.css		|
+|---------------------------------------------------|
+| For use with:										|
+| FrontAccounting									|
+| http://FrontAccounting.com/						|
+| by Joe Hunt Consulting							|
+|---------------------------------------------------|
+| Developer:										|
+| Joe Hunt											|
+|													|
+|---------------------------------------------------|
+| Note:												|
+| Changes can be made to this CSS that will be		|
+| reflected throughout FrontAccounting.				|
+|													|
+\--------------------------------------------------*/
+
+body {
+	background-color: #fff;
+	margin: 0 4px;
+	padding: 0;
+	text-align: center;
+}
+
+body,td,th {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000;
+}
+
+/* Main */
+#main {
+	margin-left: 0;
+	margin-top: 58px;
+}
+
+tr, td, th {
+	line-height: 17px;
+	color: #111;
+}
+table {
+	text-align: left;
+}
+
+textarea {
+	border: 1px solid #ddd;
+	font-size: 12px;
+}
+
+input, select
+{
+	border: 1px solid #ddd;
+	font-size: 11px;
+	padding: 1px;
+}
+
+select {
+	max-width: 200px;
+}
+
+option.inactive {
+	text-decoration: line-through;
+	color: gray;
+}
+
+input.big {
+	width: 100px;
+}
+
+input.small {
+	width: 50px;
+}
+
+a, a:active {
+	color: #045c97;
+	text-decoration: none;
+}
+a:hover, a:focus {
+	color: #4f9adb;
+	text-decoration: underline;
+}
+a:visited {
+	color: #045c97;
+	text-decoration: none;
+}
+.clear {
+	clear: both;
+}
+.nodisp {
+	display: none;
+}
+.italic {
+	font-style: italic;
+}
+.flleft {
+	float: left;
+}
+.flright {
+	float: right;
+}
+
+/* Body */
+.fa-body {
+	width: 100%;
+	background-color: #fff;
+	border-radius: 6px;
+	margin: 0;
+	padding: 6px 0 0 0;
+}
+
+/* Content */
+.fa-content {
+	width: 100%;
+	margin: 0;
+	padding: 6px 10px 5px 0;
+	vertical-align: top;
+}
+
+
+#hotkeyshelp {
+	float: right;
+	font-weight: bolder;
+}
+
+/* Footer */
+.fa-footer {
+	background-color: #f1f1f1;
+	height: 10px;
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+	font-size: 11px;
+	color: #036;
+}
+.fa-footer .power a { font-size: 11px; padding: 0 12px 0 12px; text-align: center; background: transparent url(images/News.png) no-repeat center left; color: #045c97; }
+.fa-footer .date { font-size: 11px; padding: 0 12px 0 12px; text-align: center; color: #045c97; }
+
+h1 {
+	font-size: 14px;
+	margin-right: 20px;
+	color: #466f01;
+}
+h2, .titletext {
+	font-weight: bold;
+	font-size: 13px;
+	color: #555;
+	padding: 5px 5px 5px 18px;
+}
+.titletext {
+	border-bottom: 1px solid #ccc;
+}
+
+h3 {
+	font-size: 100%;
+	padding-top: 1ex;
+	padding-bottom: 1ex;
+}
+
+
+hr {
+	background: #ccc;
+	border: 0;
+	color: #ccc;
+	height: 1px;
+}
+
+.tableheader {
+	font-weight: bold;
+	background-color: #7e909a;
+	color: #fff;
+	text-align: center;
+}
+
+.tableheader2 {
+	font-weight: bold;
+	background-color: #7e909a;
+	color: #fff;
+	text-align: left;
+}
+
+.tableseparator {
+	border-left: 1px solid #ccc;
+}
+
+.headingtext {
+	font-weight: bold;
+	font-size: 12px;
+	color: #555;
+}
+
+.headingtext2 {
+	font-size: 12px;
+	color: black;
+}
+
+.headingtext3 {
+	font-weight: bold;
+	font-size: 10px;
+	color: black;
+}
+
+.errortext {
+	font-size: 12px;
+	color: #f00;
+	font-weight: bold;
+}
+
+.inputsubmit {
+	font-size: 11px;
+	color: #fff;
+	border: 1px #008cba solid;
+	background-color: #008cba;
+	padding: 3px 4px;
+}
+
+.ajaxsubmit {
+	font-size: 11px;
+	color: #fff;
+	border: 1px #008cba solid;
+	background-color: #008cba;
+	padding: 3px 4px;
+}
+
+.oddrow {
+	background-color: #fafafa;
+}
+
+.evenrow {
+	background-color: #fff;
+}
+
+.overduebg {
+	background-color: pink;
+}
+
+.overduefg {
+	color: pink;
+}
+
+.currentfg {
+	color: #f66;
+}
+
+.redfg, a.redfg {
+	color: red;
+	font-weight: bold;
+}
+
+.settledbg {
+	background-color: #0b0;
+}
+
+.settledfg {
+	color: #0b0;
+}
+
+.inquirybg {
+	background-color: #fdfeef;
+}
+
+.currencybg {
+	background-color: #e88;
+}
+
+.stockmankobg {
+	background-color: pink;
+}
+
+.stockmankofg {
+	color: red;
+}
+
+table.tablestyle {
+	border-collapse: collapse;
+	border: none;
+}
+table.tablestyle td {
+	border-collapse: collapse;
+	border: 1px solid #eee;
+}
+table.tablestyle2 {
+	border-collapse: collapse;
+	border: 1px solid #eee;
+}
+table.tablestyle2 td {
+	border-collapse: collapse;
+	border: 1px solid #eee;
+}
+table.tablestyle_inner {
+	border-collapse: collapse;
+	border: 1px solid #fafafa;
+}
+table.tablestyle_inner td {
+	border-collapse: collapse;
+	border: 1px solid #fafafa;
+}
+.tablestyle_noborder {
+	padding: 3px;
+}
+
+.label {
+	background-color: #fafafa;
+	color: #111;
+	padding-left: 4px;
+}
+
+#loginscreen {
+	background: #f5f5f5;
+}
+
+.login {
+	width: 350px;
+	border-left: 12px solid #367cb5;
+	border-collapse: collapse;
+	background-color: #eeeeee;
+}
+.login td {
+	border-collapse: collapse;
+	border: 1px solid #cccccc;
+}
+
+.amount {
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 11px;
+	text-align: right;
+}
+
+input.amount {
+	padding-right: 0px;
+}
+
+.editbutton {
+	color:#00f;
+	background-color:transparent;
+	border-style:none;
+	text-decoration:none;
+	padding: 0;
+	margin: 0;
+	cursor: pointer;
+}
+
+.navibutton[disabled] {
+	color:#ccc;
+	text-decoration:none;
+	cursor: auto;
+}
+
+button.navibutton {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color:#fff;
+	padding: 0 3px;
+	background-color: transparent;
+	border-style:none;
+	cursor: pointer;
+}
+
+.navibutton span {
+	text-decoration:underline;
+}
+
+.navibar {
+	padding: 0 3px;
+	color: #fff;
+	border: 1px solid #e1e1e1;
+	border-collapse: collapse;
+	background-color: #7e909a;
+}
+
+.listsubmit {
+	display: none;
+}
+
+.inactive {
+	color: gray;
+	cursor: none;
+}
+
+button {
+	font-size: 11px;
+	border: 1px #0066cc solid;
+	padding: 1px 0px;
+}
+
+button img, span {
+	padding: 0px 2px ;
+	vertical-align: middle;
+}
+
+ul.ajaxtabs{
+	padding: 3px 0 0 0;
+	margin: 3px 3px 0 3px;
+	font: 12px Tahoma,Verdana;
+	font-weight: bold;
+	text-align: left;
+}
+
+ul.ajaxtabs li{
+	list-style: none;
+	margin: 0;
+	display: inline;
+}
+
+ul.ajaxtabs li button{
+	background-color: #f1f1f1;
+	padding: 3px 8px;
+	margin: 0px;
+	border-left: 1px solid #7e909a;
+	border-top: 1px solid #7e909a;
+	border-right: 1px solid #7e909a;
+	border-bottom: none;
+	font-weight: bold;
+}
+
+ul.ajaxtabs li button:hover{
+	border-left: 1px solid #f1f1f1;
+	border-top: 1px solid #f1f1f1;
+	border-right: 1px solid #f1f1f1;
+	color:#888;
+}
+div.spaceBox{
+	background-color: #7e909a;
+	height:8px;
+	border-bottom: 1px solid #7e909a;
+	border-left: 1px solid #7e909a;
+	border-right:1px solid #7e909a;
+	margin: 0 3px 0px 3px
+}
+
+div.contentBox{
+	border: 1px solid #ccc;
+	margin: 0 3px 3px 3px;
+}
+
+ul.ajaxtabs li button.current, ul.ajaxtabs li button.current:hover{
+	border-left: 1px solid #7e909a;
+	background-color: #7e909a;
+	color:#fff;
+}
+#hints {
+	font-size: 12px;
+	padding: 5px;
+	border-bottom: 1px solid #7e909a;
+	margin: -4px -2px -2px;
+	border: 1px solid #7e909a;
+	background-color: #ffffea;
+	white-space: nowrap;
+}
+
+img { border: 0; }
+
+/*
+	Calendar style
+*/
+#CCIframe {
+	display: none;
+	left: 0px;
+	position: absolute;
+	top: 0px;
+	height: 250px;
+	width: 270px;
+	z-index: 99;
+}
+#CC { 
+	position:absolute;
+	background-color:#FFF;
+	margin:0; padding:0;
+	display:none;
+	z-index: 100;
+}
+#CC table { 
+	font-family: arial, verdana, helvetica, sans-serif;
+	font-size: 8pt;
+	border-left: 1px solid #336;
+	border-right: 1px solid #336;
+}
+#CC th {
+	font-weight: normal;
+	text-align: center;
+}
+#CC th a {
+	font-weight: normal;
+	text-decoration: none;
+	color: #FFF;
+	padding: 1px;
+}
+#CC td {
+	text-align: center;
+}
+#CC .header {
+	background-color: #7e909a;
+}
+#CC .weekday {
+	background-color: #eee;
+	color: #000;
+}
+#CC .weekend {
+	background-color: #FFC;
+	color: #000;
+}
+#CC .weekno {
+	background-color: #f1f1f1;
+	color: #555;
+}
+#CC .current {
+	border: 1px solid #339;
+	background-color: #7e909a;
+	color: #FFF;
+}
+#CC .weekday, #CC .weekend, #CC .current {
+	display: block;
+	text-decoration: none;
+	border: 1px solid #FFF;
+	width: 2em;
+}
+#CC .weekday:hover, #CC .weekend:hover, #CC .current:hover {
+	color: #FFF;
+	background-color: #7e909a;
+	border: 1px solid #999;
+}
+#CC .previous {
+	text-align: left;
+}
+#CC .next {
+	text-align: right;
+}
+#CC .previous, #CC .next {
+	padding: 1px 3px 1px 3px;
+	font-size: 1.4em;
+}
+#CC .previous a, #CC .next a {
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+#CC .title {
+	text-align: center;
+	font-weight: bold; 
+	color: #FFF;
+}
+#CC .empty {
+	background-color: #ddd;
+	border: 1px solid #FFF;
+}
+
+div.err_msg {
+	margin: 10px;
+	padding: 3px;
+	border: 1px solid #cc3300;
+	background-color: #ffcccc;
+	color: #dd2200;
+	text-align: center;
+}
+
+div.warn_msg {
+	margin: 10px;
+	padding: 3px;
+	border: 1px solid #ff9900;
+	background-color: #ffff00;
+	color: #ff5500;
+	text-align: center;
+}
+
+div.note_msg {
+	margin: 10px;
+	padding: 3px;
+	border: 1px solid #33cc00;
+	background-color: #ccffcc;
+	color: #007700;
+	text-align: center;
+}
+
+#title {
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+	width: 100%;
+	background-color: #fff;
+	overflow: hidden;
+	margin-bottom: 1px;
+	white-space: nowrap;
+	position: fixed;
+	top: 0;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+	font-size: 13px;
+	font-weight: bold;
+	float: left;
+	color: #111;
+	text-align: center;
+	padding: 7px 10px;
+	height: 15px;
+	text-decoration: none;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+	background-color: #f1f1f1;
+	color: #111;
+}
+.topnav .right {
+	float: right;
+	padding: 2px 12px 2px 0;
+}	
+
+/* Add a color to the active/current link */
+.topnav a.active {
+	background-color: #7e909a;
+	color: #fff;
+}
+
+#menu2 {
+	font-size: 13px;
+	width: 100%;
+	top: 14px;
+	height: 35px;
+	position: fixed;
+	background-color: #f1f1f1;
+	margin-top: 14px;
+	margin-bottom: 1px;
+}
+#menu2 ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+#menu2 ul li {
+	display: block;
+	position: relative;
+	float: left;
+}
+#menu2 ul li ul {
+	display: none;
+	background: #f1f1f1;
+	border-bottom: 1px solid #f1f1f1;
+}
+#menu2 ul li a {
+	display: block;
+	background: #f1f1f1;
+	padding: 8px 10px 10px 10px;
+	text-decoration: none;
+	white-space: nowrap;
+	color: #111;
+}
+#menu2 ul li a:hover {
+	background: #d9d9d9;
+	color: #111;
+}
+#menu2 ul li:hover ul {
+	display: block;
+	position: absolute;
+	text-align: left;
+}
+#menu2 ul li:hover ul li {
+	float: none;
+}
+
+#menu2 ul li ul li a {
+	font-size: 12px;
+	padding: 4px 10px 5px 10px;
+	border-left: 1px solid #f1f1f1;
+	border-right: 1px solid #f1f1f1;
+	background: #f9f9f9;
+	color: #111;
+}
+#menu2 ul li ul li a:hover {
+	background: #d9d9d9;
+	color: #111;
+}
+.circle {
+	height: 13px;
+	width: 13px;
+	font-size:10px;
+	background-color: #008cba;
+	color: #fff;
+	padding-top: 2px;
+	vertical-align:middle;
+	text-align:center;
+	border-radius: 50%;
+	display: inline-block;
+}
+.line {
+	border-top: 1px solid #555;
+}
+
+#header { margin: 0;}
+#header ul {float: right; font-size: 12px; margin: 0 10px 0 0; padding-top: 0px;}
+#header li{ list-style: none; display: inline; margin: 0; }
+#header li a{ font-size: 12px; color: #045c97; text-decoration: none; padding: 0 10px 0 16px; }

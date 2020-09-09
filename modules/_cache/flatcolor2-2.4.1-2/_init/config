@@ -1,0 +1,14 @@
+Package: flatcolor2
+Version: 2.4.1-2
+Type: theme
+Name: Theme Flatcolor2
+Description: Optional Theme. Dynamic Vertical Menu.
+ Works execent in all browsers.
+ Fine in IOS. (one touch -> hover), (two touch -> click).
+ Ok in Android Tablets, smartphones.. (The click event has been converted to a Dashboard menu).
+Author: Joe Hunt <joe.hunt.consulting@gmail.com>
+Homepage: www.frontaccounting.com
+Maintenance: Joe Hunt <joe.hunt.consulting@gmail.com>
+InstallPath: themes/flatcolor2
+Filename: flatcolor2-2.4.1-2
+
