@@ -79,7 +79,7 @@ function defaultCompany()
 	start_row();
 	echo "<td align='center' colspan=2>";
 	if (!$login_timeout) { // FA logo
-    	echo "<a target='_blank' href='".$SysPrefs->power_url."'><img src='$path_to_root/themes/$def_theme/images/logo_frontaccounting.png' alt='FrontAccounting' height='50' onload='fixPNG(this)' border='0' ></a>";
+    	echo "<a target='_blank' href='".$SysPrefs->power_url."'><img src='$path_to_root/themes/$def_theme/images/erp.png' alt='FrontAccounting' height='50' onload='fixPNG(this)' border='0' ></a>";
 	} else { 
 		echo "<font size=5>"._('Authorization timeout')."</font>";
 	} 

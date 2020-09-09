@@ -25,7 +25,7 @@ $tb_pref_counter = 1;
 $db_connections = array (
   0 => 
   array (
-    'name' => 'WizERP',
+    'name' => 'Company One',
     'host' => 'localhost',
     'port' => '3306',
     'dbname' => 'frontacc',

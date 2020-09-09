@@ -86,7 +86,7 @@
 				$himg = "<img src='$local_path_to_root/themes/".user_theme()."/images/help.gif' width='14' height='14' border='0' alt='"._('Help')."'>&nbsp;&nbsp;";
 				echo "<div id='header'>\n";
 				echo "<ul>\n";
-				$logo = "$path_to_root/themes/".user_theme()."/images/logo_frontaccounting.png";
+				$logo = "$path_to_root/themes/".user_theme()."/images/erp.png";
 				if (file_exists($logo))
 					echo "<li><img src='$logo' height='30' border='0' onload='fixPNG(this)' alt=''></li>\n";				
 				else
