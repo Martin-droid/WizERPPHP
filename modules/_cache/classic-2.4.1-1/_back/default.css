@@ -1,0 +1,696 @@
+/*--------------------------------------------------\
+| default2		|				| default.css		|
+|---------------------------------------------------|
+| For use with:										|
+| FrontAccounting									|
+| http://FrontAccounting.com/						|
+| by Joe Hunt Consulting							|
+|---------------------------------------------------|
+| Developer:										|
+| Joe Hunt											|
+|													|
+|---------------------------------------------------|
+| Note:												|
+| Changes can be made to this CSS that will be		|
+| reflected throughout FrontAccounting.				|
+|													|
+\--------------------------------------------------*/
+
+body {
+	background: #fff;
+	margin: 0 4px;
+	padding: 0;
+	text-align: center;
+}
+
+body, td, th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 19px;
+	color: #111
+}
+
+.fa-body {
+  width: 100%;
+  margin: 0 auto;
+  text-align: left;
+}
+
+/* Main */
+#main {
+	margin-left: 0;
+	margin-top: 64px;
+}
+
+table {
+	text-align: left;
+}
+
+textarea {
+	font-size: 12px;
+}
+
+input, select {
+	font-size: 11px;
+	padding: 1px;
+}
+
+select {
+	max-width: 230px;
+}
+
+option.inactive {
+	text-decoration: line-through;
+	color: gray;
+}
+
+input.big {
+	width: 100px;
+}
+
+input.small {
+	width: 50px;
+}
+
+a, a.active {
+	color: #045c97;
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+	color: #4f9adb;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #045c97;
+	text-decoration: none;
+}
+
+.menu_group {
+	font-size: 13px;
+	padding: 0;
+	color: #516068;
+	background-color: #d9d9d9;
+	vertical-align: top;
+	font-weight: bold;
+}
+
+.menu_group_items {
+	font-size: 13px;
+	background-color: #fff;
+	font-weight: normal;
+	padding: 9px 0 9px 20px;
+	vertical-align: top;
+}
+
+.menu_group_items a {
+	font-size: 13px;
+	color: #4c4c4c;
+}
+
+/* Content */
+.fa-content {
+	width: 100%;
+	margin: 0;
+	padding: 6px 10px 5px 0;
+	vertical-align: top;
+}
+
+#hotkeyshelp {
+	float: right;
+	font-weight: bolder;
+}
+
+/* Footer */
+.fa-footer {
+	background-color: #f1f1f1;
+	/*height: 10px;*/
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+	font-size: 10px;
+	color: #036;
+}
+.fa-footer .power a { font-size: 10px; padding: 0 12px 0 12px; text-align: center; background: transparent url(images/News.png) no-repeat center left; color: #045c97; }
+.fa-footer .date { font-size: 10px; padding: 0 12px 0 12px; text-align: center; color: #045c97; }
+
+h1 {
+	font-size: 14px;
+	margin-right: 20px;
+	color: #466f01;
+}
+
+.tableheader {
+	font-weight: bold;
+	background-color: #7e909a;
+	color: #fff;
+	text-align: center;
+}
+
+.tableheader2 {
+	font-weight: bold;
+	background-color: #7e909a;
+	color: #fff;
+	text-align: left;
+}
+
+.titletext {
+	font-weight: bold;
+	font-size: 13px;
+	border-bottom: 1px solid #9aafc0;
+	padding: 5px;
+	width: 100%;
+}
+
+.headingtext {
+	font-weight: bold;
+	font-size: 13px;
+	color: black;
+}
+
+.headingtext2 {
+	font-size: 13px;
+	color: black;
+}
+
+.headingtext3 {
+	font-weight: bold;
+	font-size: 11px;
+	color: black;
+}
+
+.errortext {
+	font-size: 13px;
+	color: #ff0000;
+	font-weight: bold;
+}
+
+.inputsubmit {
+	font-size: 11px;
+	border: 1px #008cba solid;
+	padding: 3px 4px;
+	color: #fff;
+	background: #008cba;
+}
+
+.ajaxsubmit {
+	font-size: 11px;
+	border: 1px #008cba solid;
+	padding: 3px 4px;
+	color: #fff;
+	background: #008cba;
+}
+
+.oddrow {
+	background-color: #fafafa;
+}
+
+.evenrow {
+	background-color: #fff;
+}
+
+.overduebg {
+	background-color: pink;
+}
+
+.overduefg {
+	color: pink;
+}
+
+.currentfg {
+	color: #f66;
+}
+
+.redfg, a.redfg {
+	color: red;
+	font-weight: bold;
+}
+
+.settledbg {
+	background-color: #0b0;
+}
+
+.settledfg {
+	color: #0b0;
+}
+
+.inquirybg {
+	background-color: #fdfeef;
+}
+
+.currencybg {
+	background-color: #e88;
+}
+
+.stockmankobg {
+	background-color: pink;
+}
+
+.stockmankofg {
+	color: red;
+}
+
+table.tablestyle {
+	border-collapse: collapse;
+	border: none;
+}
+table.tablestyle td {
+	border-collapse: collapse;
+	border: 1px solid #eee;
+}
+table.tablestyle2 {
+	border-collapse: collapse;
+	border: 1px solid #eee;
+}
+table.tablestyle2 td {
+	border-collapse: collapse;
+	border: 1px solid #eee;
+}
+table.tablestyle_inner {
+	border-collapse: collapse;
+	border: 1px solid #fafafa;
+}
+table.tablestyle_inner td {
+	border-collapse: collapse;
+	border: 1px solid #fafafa;
+}
+.tablestyle_noborder {
+	padding: 3px;
+}
+
+.label {
+	background: #fafafa;
+	color: #111;
+	padding-left: 4px;
+}
+
+.amount {
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 11px;
+	text-align: right;
+}
+
+input.amount {
+	padding-right: 0px;
+}
+
+.editbutton {
+	color:#00f;
+	background-color:transparent;
+	border-style:none;
+	text-decoration:none;
+	padding: 0;
+	margin: 0;
+	cursor: pointer;
+}
+
+.navibutton[disabled], .navibutton[disabled] span {
+	color:#ccc;
+	text-decoration: none;
+	cursor: auto;
+}
+
+button.navibutton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color:#fff;
+	padding: 0 3px;
+	background-color:transparent;
+	border-style:none;
+	cursor: pointer;
+}
+
+.navibutton span {
+	text-decoration: underline;
+}
+
+.navibar {
+	padding: 0 3px;
+	color: #fff;
+	border: 1px solid #e1e1e1;
+	border-collapse: collapse;
+	background-color: #7e909a;
+}
+
+.navibar tr td {
+	border: none;
+}
+
+.listsubmit {
+	display: none;
+}
+
+.inactive {
+	color: gray;
+	cursor: none;
+}
+
+button {
+	font-size: 11px;
+	border: 1px #0066c solid;
+	padding: 3px 4px;
+}
+
+button img, span {
+	padding: 0px 2px ;
+	vertical-align: middle;
+}
+
+ul.ajaxtabs{
+	padding: 3px 0 0 0;
+	margin: 3px 3px 0 3px;
+	font: 12px Tahoma,Verdana;
+	font-weight: bold;
+	text-align: left;
+}
+
+ul.ajaxtabs li{
+	list-style: none;
+	margin: 0;
+	display: inline;
+}
+
+ul.ajaxtabs li button{
+	background-color: #f1f1f1;
+	padding: 3px 8px;
+	margin: 0px;
+	border-left: 1px solid #7e909a;
+	border-top: 1px solid #7e909a;
+	border-right: 1px solid #7e909a;
+	border-bottom: none;
+	font-weight: bold;
+}
+
+ul.ajaxtabs li button:hover{
+	border-left: 1px solid #f1f1f1;
+	border-top: 1px solid #f1f1f1;
+	border-right: 1px solid #f1f1f1;
+	color:#888;
+}
+
+div.spaceBox{
+	background-color: #7e909a;
+	height:8px;
+	border-bottom: 1px solid #7e909a;
+	border-left: 1px solid #7e909a;
+	border-right:1px solid #7e909a;
+	margin: 0 3px 0px 3px
+}
+
+div.contentBox{
+	border: 1px solid #ccc;
+	margin: 0 3px 3px 3px
+}
+
+ul.ajaxtabs li button.current, ul.ajaxtabs li button.current:hover{
+	border-left: 1px solid #7e909a;
+	background-color: #7e909a;
+	color:#fff;
+}
+
+#hints {
+	font-size: 12px;
+	padding: 5px;
+	border-bottom: 1px solid #7e909a;
+	margin: -4px -2px -2px;
+	border: 1px solid #7e909a;
+	background-color: #ffffea;
+	white-space: nowrap;
+}
+
+/*
+	Calendar style
+*/
+#CCIframe {
+	display: none;
+	left: 0px;
+	position: absolute;
+	top: 0px;
+	height: 250px;
+	width: 270px;
+	z-index: 99;
+}
+#CC { 
+	position:absolute;
+	background-color:#FFF;
+	margin:0; padding:0;
+	display:none;
+	z-index: 100;
+}
+#CC table { 
+	font-family: arial, verdana, helvetica, sans-serif;
+	font-size: 8pt;
+	border-left: 1px solid #336;
+	border-right: 1px solid #336;
+}
+#CC th {
+	font-weight: normal;
+	text-align: center;
+}
+#CC th a {
+	font-weight: normal;
+	text-decoration: none;
+	color: #FFF;
+	padding: 1px;
+}
+#CC td {
+	text-align: center;
+}
+#CC .header {
+	background-color: #7e909a;
+}
+#CC .weekday {
+	background-color: #eee;
+	color: #000;
+}
+#CC .weekend {
+	background-color: #FFC;
+	color: #000;
+}
+#CC .weekno {
+	background-color: #f1f1f1;
+	color: #555;
+}
+#CC .current {
+	border: 1px solid #339;
+	background-color: #7e909a;
+	color: #FFF;
+}
+#CC .weekday, #CC .weekend, #CC .current {
+	display: block;
+	text-decoration: none;
+	border: 1px solid #FFF;
+	width: 2em;
+}
+#CC .weekday:hover, #CC .weekend:hover, #CC .current:hover {
+	color: #FFF;
+	background-color: #7e909a;
+	border: 1px solid #999;
+}
+#CC .previous {
+	text-align: left;
+}
+#CC .next {
+	text-align: right;
+}
+#CC .previous, #CC .next {
+	padding: 1px 3px 1px 3px;
+	font-size: 1.4em;
+}
+#CC .previous a, #CC .next a {
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+#CC .title {
+	text-align: center;
+	font-weight: bold; 
+	color: #FFF;
+}
+#CC .empty {
+	background-color: #ddd;
+	border: 1px solid #FFF;
+}
+
+div.err_msg {
+	margin: 10px;
+	padding: 3px;
+	border: 1px solid #cc3300;
+	background-color: #ffcccc;
+	color: #dd2200;
+	text-align: center;
+}
+
+div.warn_msg {
+	margin: 10px;
+	padding: 3px;
+	border: 1px solid #ff9900;
+	background-color: #ffff00;
+	color: #ff5500;
+	text-align: center;
+}
+
+div.note_msg {
+	margin: 10px; 
+	padding: 3px;
+	border: 1px solid #33cc00;
+	background-color: #ccffcc;
+	color: #007700;
+	text-align: center;
+}
+
+#title {
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+	width: 100%;
+	background-color: #fff;
+	overflow: hidden;
+	margin-bottom: 1px;
+	white-space: nowrap;
+	position: fixed;
+	top: 0;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+	font-size: 13px;
+	font-weight: bold;
+	float: left;
+	color: #111;
+	text-align: center;
+	padding: 6px 10px 7px;
+	height: 15px;
+	text-decoration: none;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+	background-color: #f1f1f1;
+	color: #111;
+}
+.topnav .right {
+	float: right;
+	padding: 2px 12px 2px 0;
+}	
+
+/* Add a color to the active/current link */
+.topnav a.active {
+	background-color: #7e909a;
+	color: #fff;
+}
+
+.menu2 {
+	font-size : 12px;
+	color: #111;
+	width: 100%;
+	margin-top: 14px;
+	margin-left: 0;
+	top: 14px;
+	position: fixed;
+	background-color: #f1f1f1;
+	padding: 2px 10px 8px 4px;
+	height: 32px;
+	text-align: left;
+}
+
+#header { margin: 0; }
+#header ul {float: right; font-size: 12px; margin: 0 10px 0 0;padding-top:12px;}
+#header li{ list-style: none; display: inline; margin: 0; }
+#header li a{ font-size: 12px; color: #045c97; text-decoration: none; padding: 0 10px 0 16px; }
+#header h1{padding: 5px 0 2px 5px;margin: 0; white-space: nowrap;}
+
+/* login part of default2 */
+.login {
+	font-family: Arial, Helvetica, sans-serif;
+	box-sizing: border-box;
+	width: 330px;
+	font-size: 13px;
+	margin: 40px auto;
+	border-radius: 10px;
+	background-color: #eaeaea;
+	padding: 15px 35px;
+}
+
+.login input, .login select {
+	font-size: 12px;
+	width: 215px;
+	padding: 7px 4px 7px 9px;
+	border: 1px solid #ccc;
+	resize: vertical;
+}
+.login select {
+	padding: 6px 4px 6px 4px;
+	width: 240px;
+	line-height: 2.0;
+}
+.login label {
+	display: inline-block;
+}
+
+.login button {
+	margin-top: 10px;
+	background-color: #008cba;
+	color: white;
+	padding: 7px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	float: right;
+}
+
+.login button:hover {
+	opacity: 0.6;
+}
+
+.login .col-25 {
+	float: left;
+	width: 25px;
+	margin-top: 10px;
+}
+
+.login .col-75 {
+	float: left;
+	width: 225px;
+	margin-top: 10px;
+}
+
+/* Clear floats after the columns */
+.login .row:after {
+	content: '';
+	display: table;
+	clear: both;
+}
+.login .pic {
+	background-color: #008cba;
+	height: 25px;
+	weight: 25px;
+	padding: 6px 0 0 6px;
+}
+.login .pic img {
+	width: 16xp;
+	height: 16px;
+	border: 0;
+}
+.login .helper {
+	margin-top: 10px;
+	text-align: center;
+}
+.login .logo {
+	text-align: center;
+	height: 12px;
+	margin: 0 0 40px 0;
+	padding: 0;
+}
+.login .msg {
+	text-align: center;
+	padding: 5px 0;
+	margin-bottom: 10px;
+	background-color: #d9d9d9;
+	color: #111;
+}
