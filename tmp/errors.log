@@ -74,3 +74,39 @@
 [09-Sep-2020 08:37:53 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
 [09-Sep-2020 08:38:08 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
 [09-Sep-2020 08:38:18 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:14:07 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:14:07 Europe/Berlin] 0:admin:header.inc:157: include_once(../themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
+[09-Sep-2020 10:14:07 Europe/Berlin] 0:admin:header.inc:157: include_once(): Failed opening '../themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
+[09-Sep-2020 10:14:07 Europe/Berlin] 0:admin:header.inc:158: Unhandled exception [0]: Class 'renderer' not found.
+[09-Sep-2020 10:14:07 Europe/Berlin] 0:admin:footer.inc:19: include_once(../themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
+[09-Sep-2020 10:14:07 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening '../themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
+[09-Sep-2020 10:14:10 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:14:10 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
+[09-Sep-2020 10:14:10 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
+[09-Sep-2020 10:14:10 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[09-Sep-2020 10:14:10 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
+[09-Sep-2020 10:14:10 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
+[09-Sep-2020 10:14:12 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:14:12 Europe/Berlin] 0:admin:header.inc:157: include_once(../themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
+[09-Sep-2020 10:14:12 Europe/Berlin] 0:admin:header.inc:157: include_once(): Failed opening '../themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
+[09-Sep-2020 10:14:12 Europe/Berlin] 0:admin:header.inc:158: Unhandled exception [0]: Class 'renderer' not found.
+[09-Sep-2020 10:14:12 Europe/Berlin] 0:admin:footer.inc:19: include_once(../themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
+[09-Sep-2020 10:14:12 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening '../themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
+[09-Sep-2020 10:14:16 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:14:16 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
+[09-Sep-2020 10:14:16 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
+[09-Sep-2020 10:14:16 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[09-Sep-2020 10:14:16 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
+[09-Sep-2020 10:14:16 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
+[09-Sep-2020 10:14:26 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:14:26 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
+[09-Sep-2020 10:14:26 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
+[09-Sep-2020 10:14:26 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[09-Sep-2020 10:14:26 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
+[09-Sep-2020 10:14:26 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
+[09-Sep-2020 10:14:32 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[09-Sep-2020 10:14:32 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
+[09-Sep-2020 10:14:32 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
+[09-Sep-2020 10:14:32 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[09-Sep-2020 10:14:32 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/bluecollar_wizag/renderer.php): failed to open stream: No such file or directory
+[09-Sep-2020 10:14:32 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/bluecollar_wizag/renderer.php' for inclusion (include_path='.;C:/laragon/etc/php/pear')
