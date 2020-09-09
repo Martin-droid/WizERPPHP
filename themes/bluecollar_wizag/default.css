@@ -21,7 +21,10 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
+  /* background: red; */
 }
+
+
 
 body,td,th {
   font-family:Arial, Helvetica, sans-serif;
@@ -132,6 +135,13 @@ a:visited {
   font-size: 10px;
   color: #036;
   background-color: #d7dcdd;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* background-color: red; */
+  /* color: white; */
+  /* text-align: center; */
 }
 
 

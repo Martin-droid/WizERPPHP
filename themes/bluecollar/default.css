@@ -7,7 +7,7 @@
 | by Joe Hunt Consulting                            |
 |---------------------------------------------------|
 | Developer:                                        |
-| Joe Hunt                                          |
+| Joe Hunt                                       |
 |                                                   |
 |---------------------------------------------------|
 | Note:                                             |
@@ -785,7 +785,7 @@ ul#saturday li a {
   text-decoration:none;
   padding:6px 20px 0 20px;
   height:20px;
-  background-color:#94300;
+  /* background-color:#94300; */
   border-right: 1px solid #fff;
 }
 

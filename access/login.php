@@ -142,21 +142,21 @@ function defaultCompany()
     //]]>
     </script>";
     div_end();
-	echo "<table class='bottomBar'>\n";
-	echo "<tr>";
-	if (isset($_SESSION['wa_current_user'])) 
-		$date = Today() . " | " . Now();
-	else	
-		$date = date("m/d/Y") . " | " . date("h.i am");
-	echo "<td class='bottomBarCell'>$date</td>\n";
-	echo "</tr></table>\n";
-	echo "<table class='footer'>\n";
-	echo "<tr>\n";
-	echo "<td><a target='_blank' href='".$SysPrefs->power_url."' tabindex='-1'>".$SysPrefs->app_title." $version - " . _("Theme:") . " " . $def_theme . "</a></td>\n";
-	echo "</tr>\n";
-	echo "<tr>\n";
-	echo "<td><a target='_blank' href='".$SysPrefs->power_url."' tabindex='-1'>".$SysPrefs->power_by."</a></td>\n";
-	echo "</tr>\n";
-	echo "</table><br><br>\n";
+	// echo "<table class='bottomBar'>\n";
+	// echo "<tr>";
+	// if (isset($_SESSION['wa_current_user'])) 
+	// 	$date = Today() . " | " . Now();
+	// else	
+	// 	$date = date("m/d/Y") . " | " . date("h.i am");
+	// echo "<td class='bottomBarCell'>$date</td>\n";
+	// echo "</tr></table>\n";
+	// echo "<table class='footer'>\n";
+	// echo "<tr>\n";
+	// echo "<td><a target='_blank' href='".$SysPrefs->power_url."' tabindex='-1'>".$SysPrefs->app_title." $version - " . _("Theme:") . " " . $def_theme . "</a></td>\n";
+	// echo "</tr>\n";
+	// echo "<tr>\n";
+	// echo "<td><a target='_blank' href='".$SysPrefs->power_url."' tabindex='-1'>".$SysPrefs->power_by."</a></td>\n";
+	// echo "</tr>\n";
+	// echo "</table><br><br>\n";
 	echo "</body></html>\n";
 
