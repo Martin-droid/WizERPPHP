@@ -17,7 +17,7 @@
 \--------------------------------------------------*/
 
 body {
-  background-color: #eee;
+  background-color: #FFFFFF;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -785,7 +785,7 @@ ul#saturday li a {
   text-decoration:none;
   padding:6px 20px 0 20px;
   height:20px;
-  background-color:#94300;
+  background-color: #1798b2;
   border-right: 1px solid #fff;
 }
 
