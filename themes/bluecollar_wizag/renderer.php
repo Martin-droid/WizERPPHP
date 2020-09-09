@@ -215,7 +215,7 @@
 					echo "<span class='date'>" . $db_connections[$_SESSION["wa_current_user"]->company]["name"] . "</span>\n";
 					echo "<span class='date'>" . $_SERVER['SERVER_NAME'] . "</span>\n";
 					echo "<span class='date'>" . $_SESSION["wa_current_user"]->name . "</span>\n";
-					echo "<span class='date'>" . _("Theme:") . " " . user_theme() . "</span>\n";
+					// echo "<span class='date'>" . _("Theme:") . " " . user_theme() . "</span>\n";
 					echo "<span class='date'>".show_users_online()."</span>\n";
 				}
 				echo "</div>\n"; // footer
