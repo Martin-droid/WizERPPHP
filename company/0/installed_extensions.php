@@ -177,4 +177,13 @@ $installed_extensions = array (
     'active' => false,
     'path' => 'themes/studio',
   ),
+  20 => 
+  array (
+    'name' => 'Report Generator',
+    'package' => 'repgen',
+    'version' => '2.4.0-4',
+    'type' => 'extension',
+    'active' => false,
+    'path' => 'modules/repgen',
+  ),
 );

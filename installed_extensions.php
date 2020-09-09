@@ -6,7 +6,7 @@
 	FA extension system documentation.
 */
 
-$next_extension_id = 20; // unique id for next installed extension
+$next_extension_id = 21; // unique id for next installed extension
 
 $installed_extensions = array (
   1 => 
@@ -179,5 +179,14 @@ $installed_extensions = array (
     'type' => 'theme',
     'active' => false,
     'path' => 'themes/studio',
+  ),
+  20 => 
+  array (
+    'name' => 'Report Generator',
+    'package' => 'repgen',
+    'version' => '2.4.0-4',
+    'type' => 'extension',
+    'active' => false,
+    'path' => 'modules/repgen',
   ),
 );
