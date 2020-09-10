@@ -25,10 +25,10 @@ $tb_pref_counter = 1;
 $db_connections = array (
   0 => 
   array (
-    'name' => 'Company One',
+    'name' => 'Workaholics',
     'host' => 'localhost',
     'port' => '3306',
-    'dbname' => 'frontacc',
+    'dbname' => 'wizerp',
     'collation' => 'utf8_xx',
     'tbpref' => '0_',
     'dbuser' => 'root',

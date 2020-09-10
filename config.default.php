@@ -44,14 +44,14 @@ if (!isset($path_to_root) || isset($_GET['path_to_root']) || isset($_POST['path_
 	$select_trail 	= 0; // track also SELECT queries
 
 	// Main Title
-	$app_title = "FrontAccounting";
+	$app_title = "WizagERP";
 
 	// Build for development purposes
 	$build_version 	= date("d.m.Y", filemtime("$path_to_root/CHANGELOG.txt"));
 
 	// Powered by
-	$power_by 		= "FrontAccounting";
-	$power_url 		= "http://frontaccounting.com";
+	$power_by 		= "Wizag";
+	$power_url 		= "https://www.wizag.biz/";
 
 	/* No check on edit conflicts. Maybe needed to be set to 1 in certains Windows Servers */
 	$no_check_edit_conflicts = 0;

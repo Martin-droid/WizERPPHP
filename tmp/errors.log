@@ -783,3 +783,20 @@
 [09-Sep-2020 15:55:47 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
 [09-Sep-2020 15:55:49 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
 [09-Sep-2020 15:55:55 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:13:53 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:14:38 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:15:01 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:15:18 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:15:42 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:15:42 Europe/Berlin] 0::login.php:107:[before upgrade] count(): Parameter must be an array or an object that implements Countable
+[10-Sep-2020 08:17:52 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:18:26 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:18:26 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:18:26 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:18:26 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:18:28 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:18:40 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:18:45 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:18:45 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:18:45 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[10-Sep-2020 08:18:45 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
