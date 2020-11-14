@@ -854,3 +854,44 @@
 [14-Nov-2020 07:34:11 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
 [14-Nov-2020 07:34:11 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
 [14-Nov-2020 07:34:11 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:40:58 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:21:[before upgrade] include(./config_db.php): failed to open stream: No such file or directory
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:21:[before upgrade] include(): Failed opening './config_db.php' for inclusion (include_path='.;D:/laragon/etc/php/pear')
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:33:[before upgrade] mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:35:[before upgrade] mysqli_select_db() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110:[before upgrade] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:127:[before upgrade] mysqli_num_rows() expects parameter 1 to be mysqli_result, null given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:286:[before upgrade] mysqli_set_charset() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:40:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[14-Nov-2020 07:42:21 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:53:40 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:53:47 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:53:59 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:53:59 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:53:59 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:53:59 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:54:02 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:54:07 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:54:35 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:54:35 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:54:35 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:54:35 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:56:00 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:56:04 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:56:06 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:56:30 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:58:06 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
+[14-Nov-2020 07:58:10 Europe/Berlin] 4 Domain file "../lang/C/LC_MESSAGES/C.po" not found.
